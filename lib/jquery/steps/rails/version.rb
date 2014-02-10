@@ -1,7 +1,7 @@
 module Jquery
   module Steps
     module Rails
-      VERSION = "0.0.1"
+      VERSION = "1.0.4"
     end
   end
 end
