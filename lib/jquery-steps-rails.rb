@@ -1,7 +1,7 @@
 module Jquery
   module Steps
     module Rails
-      VERSION = "1.1.0"
+      require 'jquery/steps/rails'
     end
   end
 end
