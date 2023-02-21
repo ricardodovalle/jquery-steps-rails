@@ -1,7 +1,8 @@
 module Jquery
   module Steps
     module Rails
-      VERSION = "1.1.0"
+      class Engine < ::Rails::Engine
+      end
     end
   end
 end
